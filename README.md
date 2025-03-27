@@ -1,4 +1,4 @@
-# 🎈 Blank app template
+# Applied Cryptography Encrypt-Decrypt 🕵🏻
 
 A simple Streamlit app template for you to modify!
 
