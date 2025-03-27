@@ -1,3 +1,3 @@
 import streamlit as st
 
-st.title("Applied Cryptography Encryptonator 🕵" )
+st.title("Welcome to Applied Cryptography Encrypt-Decrypt 🕵" )
